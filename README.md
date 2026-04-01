@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm shiva kudumula</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" width="400"
+src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 - 🔭 I’m currently working on **freelancing and youtube**
 
 - 🌱 I’m currently learning **DSA and Full Stack**
